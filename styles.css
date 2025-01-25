@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #ff9ff3;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #ffffff;
+}
+
+.timeline {
+    background-color: #f9e4ff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #ff6b81;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.game button {
+    background-color: #ff6b81;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #ff9ff3;
+    padding: 10px;
+}
